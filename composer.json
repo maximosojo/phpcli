@@ -1,0 +1,22 @@
+{
+    "name": "maximosojo/phpcli",
+    "type": "php-package",
+    "description": "Simple PHP Cli",
+    "keywords": ["php", "cli"],
+    "homepage": "https://maximosojo.github.io/phpcli",
+    "type": "php-package",
+    "license": "MIT",
+    "authors": [
+          {
+              "name": "Máximo Sojo",
+              "email": "maxsojo13@gmail.com"
+          }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": { "Maximosojo\\PHPCli\\": "" }
+    }
+  }
